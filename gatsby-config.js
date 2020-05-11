@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Triad Youth Makers - Projects",
+    title: "Projects",
   },
   plugins: ["gatsby-theme-edith"],
   pathPrefix: "/TYMprojects",
