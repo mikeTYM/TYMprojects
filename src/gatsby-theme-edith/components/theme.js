@@ -6,7 +6,7 @@ export default theme =>
    palette: {
      type: 'dark',
      primary: {
-       main: "#ff0000",
+       main: "#00a2ff",
    },
  },
 })
