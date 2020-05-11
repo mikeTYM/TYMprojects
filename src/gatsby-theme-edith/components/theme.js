@@ -4,6 +4,7 @@ export default theme =>
  createMuiTheme({
    ...theme,
    palette: {
+     type: 'dark',
      primary: {
        main: "#ff0000",
    },
