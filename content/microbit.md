@@ -3,7 +3,7 @@ type: course
 difficulty: Beginner
 audience: ["Student"]
 topics: ["micro:bit"]
-curriculum: ["/microbit/"]
+curriculum: ["/microbit-getting-started"]
 ---
 
 # micro:bit
