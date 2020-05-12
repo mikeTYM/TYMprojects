@@ -1,11 +1,10 @@
 ---
 type: course
 difficulty: Beginner
-audience: ["Educator"]
-topics: ["Getting started"]
-curriculum: ["/my-module/"]
+audience: ["Student"]
+topics: ["micro:bit"]
+curriculum: ["/microbit/"]
 ---
 
-# My course
-
-This is a sample course.
+# micro:bit
+A course on micro:bit.
